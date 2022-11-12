@@ -9,21 +9,21 @@ O sistema foi escrito em Javascript (node.js e/ou react.js).
 
 <h3 align="center">
 
-[🔗Surge](#link-surge) | [💻Projeto](#💻como-rodar-o-projeto-localmente) | [📚Bibliotecas](#bibliotecas-utilizadas) | [🛠️Tecnologias](#tecnologias-utilizadas) | [👩🏻‍💻Desenvolvedora](#desenvolvedora) 
+[🔗Surge](#link-surge) | [💻Projeto](#💻como-rodar-o-projeto-localmente) | [📚Bibliotecas](#bibliotecas-utilizadas) | [🛠️Tecnologias](#tecnologias-utilizadas) | [👩🏻‍💻Equipe desenvolvedora](#equipe-desenvolvedora)
 
 </h3>
 
 ## ✔O que funciona
 
-  - Na pagina home é possivel ver a lista de jogos, dados vindos da API de backend. Há dois botões, criar um bolão, entrar no bolão específico.
-  - Os usuários podem participar do bolão geral e não de um específico.
-  - Os usuários podem editar os palpites dos jogos que ainda não iniciaram.
-  - Botão de logout.
+- Na pagina home é possivel ver a lista de jogos, dados vindos da API de backend. Há dois botões, criar um bolão, entrar no bolão específico.
+- Os usuários podem participar do bolão geral e não de um específico.
+- Os usuários podem editar os palpites dos jogos que ainda não iniciaram.
+- Botão de logout.
 
 ## 🚧 O que esta em construção
 
-  - Página de erro caso navegue por uma página não existente(/*).
-  - Responsividade para mobile.
+- Página de erro caso navegue por uma página não existente(/\*).
+- Responsividade para mobile.
 
 ## 🔗Link Surge
 
@@ -61,12 +61,14 @@ Por padrão a aplicação rodará localmente na porta 3000.
 
 <h2 align="center">
 
-## 👩🏻‍💻Desenvolvedora
+## 👩🏻‍💻Equipe desenvolvedora
 
 </h2>
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/JilMayumiMoutinho"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104766367?v=4" width="100px;" alt=""/><br /><sub><b>Jil Mayumi Moutinho</b></sub></a>
+    <br/>
+    </td> <td align="center"><a href="https://github.com/Mariandr4de"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104591781?v=4" width="100px;" alt=""/><br /><sub><b>Mariana Andrade</b></sub></a>
   </td> 
   </tr>
 </table>
